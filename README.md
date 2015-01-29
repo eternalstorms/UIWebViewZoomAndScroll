@@ -3,7 +3,7 @@
 ## What is UIWebViewZoomAndScroll?
 This projects demonstrates how to get the zoom and scroll of a webpage in Mobile Safari and set that for a UIWebView in a Safari Action Extension so the user sees the same portion of the webpage in the action extension as in Safari.
 
-For more information on this example project, please visit [this post](http://eternalstorms.wordpress.com) on my blog.
+For more information on this example project, please visit [this post](https://eternalstorms.wordpress.com/2015/01/29/ios-8-safari-action-extension-uiwebview-zoom-scale-scroll-position-and-javascript/) on my blog.
 
 ## License Agreement
 
