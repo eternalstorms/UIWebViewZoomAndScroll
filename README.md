@@ -25,6 +25,7 @@ For more information on this example project, please visit [this post](https://e
 
 ## Requirements
 This code was written on OS X Yosemite 10.10.2.
+
 Tested with iOS 8.1 on Simulator (iPhone and iPad) and on iOS 8.1.3 on real devices
 
 ## Support
